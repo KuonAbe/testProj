@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-
-	system("pause");
+	//testest
+	system("pause");//aaa
 	return 0;
 }
 
